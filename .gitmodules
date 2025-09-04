@@ -4,3 +4,6 @@
 [submodule "ai-server-2025-2"]
 	path = ai-server-2025-2
 	url = https://github.com/manolito-fatec/ai-server-2025-2.git
+[submodule "web-client-2025-2"]
+	path = web-client-2025-2
+	url = https://github.com/manolito-fatec/web-client-2025-2.git
