@@ -78,13 +78,13 @@
 ---
 
 ### 📌 Requisitos Funcionais (Épicos) (RF)
-| **ID** | **Título** |
-| :----: | :--------- |
-| RF1    | Modernização LGPD |
-| RF2    | Insights |
-| RF3    | Dashboards |
-| RF4    | Administração de Usuários |
-| RF5    | Pesquisa de Chamados |
+| **ID** | **Título** | **Título** | **Título** |
+| :----: | :--------- | :--------- | :--------- |
+| RF1    | Administrador | Modernização LGPD | O sistema deverá garantir que dados pessoais e dados sensíveis inseridos em campos de texto livre (título, descrição e comentários dos chamados) sejam automaticamente identificados e anonimizados antes de serem persistidos no banco de dados. Para isso, deverá utilizar expressões regulares (Regex) para dados estruturados (CPF, e-mail, telefone) e integração com serviço de NLP para análise semântica de informações sensíveis (saúde, religião, opinião política, etc.). O objetivo é assegurar a conformidade contínua com a LGPD e evitar o armazenamento indevido de dados. |
+| RF2    | Gestor | Insights | O sistema deverá fornecer um componente de análise que apresente insights automáticos sobre os chamados, identificando padrões de reincidência, categorias mais críticas e cumprimento de SLA. Esse recurso terá como objetivo apoiar a tomada de decisão estratégica e aumentar a eficiência no atendimento. |
+| RF3    | Gestor | Dashboards | O sistema deverá apresentar ao gestor um dashboard interativo com indicadores de desempenho (KPIs), incluindo total de tickets criados, tempo médio de resolução, taxa de reincidência e conformidade com SLA. O dashboard deverá permitir a aplicação de filtros por período, agente, empresa, categoria e prioridade, possibilitando uma visão detalhada e comparativa da operação. |
+| RF4    | Administrador | Administração de Usuários | O sistema deverá disponibilizar uma interface administrativa que permita ao administrador gerenciar usuários (criação, edição, desativação e atribuição de papéis/perfis). Esse recurso terá como objetivo garantir o controle de acesso adequado, assegurando que cada usuário visualize e interaja apenas com as informações que são de sua responsabilidade. |
+| RF5    | Operador | Pesquisa de Chamados | O sistema deverá disponibilizar ao operador autenticado um mecanismo de pesquisa avançada de chamados, permitindo a aplicação de filtros por status, categoria, agente, empresa, prioridade e intervalo de datas. O objetivo é facilitar a localização rápida de chamados específicos e otimizar a produtividade do atendimento. |
 
 ---
 
