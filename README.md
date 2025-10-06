@@ -126,19 +126,19 @@
 | :-------------: | :-------------: | :------: | :-------------: |
 |US01|10| ✅ |Done ✅|
 |US02|05| ✅ |Done ✅|
-|US08|10| ✅ |⏳ In progress|
+|US08|10| ✅ |Done ✅|
 
 ---
 ## [Sprint 2️⃣ - 09/29 to 10/12](#sprint2)
 
 | 🗃️ User Story ID | 🚨 Estimate | 🎯 Goal | 🛠️ Status |
 | :-------------: | :-------------: | :------: | :-------------: |
-|US03|10| ✅ |⏳ In progress|
+|US03|20| ✅ |⏳ In progress|
 |US04|05| ✅ |⏳ In progress|
-|US05|10| ✅ |⏳ In progress|
-|US15|10| ✅ |⏳ In progress|
-|US07|10| 🧈 |⏳ In progress|
-|US11|10| 🧈 |⏳ In progress|
+|US05|13| ✅ |⏳ In progress|
+|US15|15| ✅ |⏳ In progress|
+|US07|03| - |⏳ In progress|
+|US11|13| - |⏳ In progress|
 
 ---
 <br>
