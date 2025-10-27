@@ -133,11 +133,11 @@
 
 | 🗃️ User Story ID | 🚨 Estimate | 🎯 Goal | 🛠️ Status |
 | :-------------: | :-------------: | :------: | :-------------: |
-|US03|20| ✅ |⏳ In progress|
-|US04|05| ✅ |⏳ In progress|
-|US05|13| ✅ |⏳ In progress|
-|US15|15| ✅ |⏳ In progress|
-|US07|03| - |⏳ In progress|
+|US03|20| ✅ |Done ✅|
+|US04|05| ✅ |Done ✅|
+|US05|13| ✅ |Done ✅|
+|US15|15| ✅ |Done ✅|
+|US07|03| - |Done ✅|
 |US11|13| - |⏳ In progress|
 
 ---
