@@ -1,7 +1,7 @@
 <h1 align="center"> Pardal </h1>
 
 <p align="center">
-      <img src="doc/img/Logo-Pardal.png" alt="Pardal logo" width="200">
+      <img src="doc/images/Logo-Pardal.png" alt="Pardal logo" width="200">
 </p>
 
 <h3 align="center">Repository dedicated to versioning the API project developed in the 6th semester of the Technologist in Database</h3>
