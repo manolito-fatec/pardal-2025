@@ -122,6 +122,15 @@
 
 ## [Sprint 1️⃣ - 09/08 to 09/28](#sprint1)
 
+<p align="left">
+  <a href="https://github.com/manolito-fatec/web-server-2025-2/releases/tag/v1.0">Web Server Repository</a> |
+  <a href="https://github.com/manolito-fatec/web-client-2025-2/releases/tag/v1.0">Web Client Repository</a> |
+  <a href="https://github.com/manolito-fatec/ai-server-2025-2/releases/tag/v1.0">AI Service Repository</a> 
+</p>
+
+> The DoD and DoR documents for this sprint are available [here](doc/DoD%20and%20DoR%20documents/DoD_DoR_Sprint_1.pdf).
+> 📊 The Sprint Burndown Chart can be found [here](doc/images/Burndown-Sprint-1.png).
+
 | 🗃️ User Story ID | 🚨 Estimate | 🎯 Goal | 🛠️ Status |
 | :-------------: | :-------------: | :------: | :-------------: |
 |US01|10| ✅ |Done ✅|
@@ -131,6 +140,15 @@
 ---
 ## [Sprint 2️⃣ - 09/29 to 10/12](#sprint2)
 
+<p align="left">
+  <a href="https://github.com/manolito-fatec/web-server-2025-2/releases/tag/v2.0">Web Server Repository</a> |
+  <a href="https://github.com/manolito-fatec/web-client-2025-2/releases/tag/v2.0">Web Client Repository</a> |
+  <a href="https://github.com/manolito-fatec/ai-server-2025-2/releases/tag/v2.0">AI Service Repository</a>
+</p>
+
+> The DoD and DoR documents for this sprint are available [here](doc/DoD%20and%20DoR%20documents/DoD_DoR_Sprint_2.pdf).
+> 📊 The Sprint Burndown Chart can be found [here](doc/images/Burndown-Sprint-2.png).
+
 | 🗃️ User Story ID | 🚨 Estimate | 🎯 Goal | 🛠️ Status |
 | :-------------: | :-------------: | :------: | :-------------: |
 |US03|20| ✅ |Done ✅|
@@ -139,6 +157,26 @@
 |US15|15| ✅ |Done ✅|
 |US07|03| - |Done ✅|
 |US11|13| - |⏳ In progress|
+
+---
+
+## [Sprint 3️⃣ - 11/03 to 11/23](#sprint3)
+
+<p align="left">
+  <a href="">Web Server Repository</a> |
+  <a href="">Web Client Repository</a> |
+  <a href="">AI Service Repository</a> 
+</p>
+
+> The DoD and DoR documents for this sprint are available [here]().
+> 📊 The Sprint Burndown Chart can be found [here]().
+
+| 🗃️ User Story ID | 🚨 Estimate | 🎯 Goal | 🛠️ Status |
+| :-------------: | :-------------: | :------: | :-------------: |
+|US09|13| ✅ |⏳ In progress|
+|US10|08| ✅ |⏳ In progress|
+|US12|08| ✅ |⏳ In progress|
+|US13|20| ✅ |⏳ In progress|
 
 ---
 <br>
