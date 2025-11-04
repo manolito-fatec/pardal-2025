@@ -129,6 +129,7 @@
 </p>
 
 > The DoD and DoR documents for this sprint are available [here](doc/DoD%20and%20DoR%20documents/DoD_DoR_Sprint_1.pdf).
+> 
 > 📊 The Sprint Burndown Chart can be found [here](doc/images/Burndown-Sprint-1.png).
 
 | 🗃️ User Story ID | 🚨 Estimate | 🎯 Goal | 🛠️ Status |
@@ -147,6 +148,7 @@
 </p>
 
 > The DoD and DoR documents for this sprint are available [here](doc/DoD%20and%20DoR%20documents/DoD_DoR_Sprint_2.pdf).
+> 
 > 📊 The Sprint Burndown Chart can be found [here](doc/images/Burndown-Sprint-2.png).
 
 | 🗃️ User Story ID | 🚨 Estimate | 🎯 Goal | 🛠️ Status |
@@ -169,6 +171,7 @@
 </p>
 
 > The DoD and DoR documents for this sprint are available [here]().
+> 
 > 📊 The Sprint Burndown Chart can be found [here]().
 
 | 🗃️ User Story ID | 🚨 Estimate | 🎯 Goal | 🛠️ Status |
