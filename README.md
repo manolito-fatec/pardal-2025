@@ -33,10 +33,10 @@
 > [!NOTE]
 > Project documentation and guides:
 
-- [Database](../pardal-2025/web-server-2025-2/src/main/resources/db)
+- [Database](https://github.com/manolito-fatec/web-server-2025-2/tree/main/src/main/resources/db)
 - [Project Standards](https://github.com/manolito-fatec/pardal-2025/wiki/Padr%C3%A3o-de-Projeto)
-- [Documentation](../pardal-2025/doc)
-- [User Guide](../pardal-2025/doc/user%20guide/userguidepardal.pdf) 
+- [Documentation](https://github.com/manolito-fatec/pardal-2025/tree/main/doc)
+- [User Guide](https://github.com/manolito-fatec/pardal-2025/tree/main/doc/user%20guide) 
 
 ---
 
